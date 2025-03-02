@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Olufemi Ajayi
-- 👀 I’m interested in using data to make informed decisions
+# Hi! Welcome!!
+***I am Olufemi Ajayi (Oyemi)***
+- I’m interested in using data to make informed decisions
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Excel, PowerBi, Sql
 - 📫 I can be reached on ajayiolufemiopey@gmail.com
